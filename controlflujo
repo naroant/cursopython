@@ -1,0 +1,5 @@
+lista = ["hola", "mensaje", "adios"]
+
+for palabra in lista:
+    if palabra == "mensaje":
+        print("encontrada")
